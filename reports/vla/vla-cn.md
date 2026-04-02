@@ -448,7 +448,7 @@ lang=ZH-CN style='font-size:14.0pt;line-height:120%;font-family:SimSun'>的核�
 
 <p class=MsoNormal style='line-height:120%'><b><span lang=EN-US
 style='font-size:12.0pt;line-height:120%;font-family:SimSun'><img width=415
-height=227 src="VLA+Final%20filtered.fld/image001.png"></span></b></p>
+height=227 src="./images/image001.png"></span></b></p>
 
 
 <p class=MsoNormal align=left style='text-align:left;line-height:120%'><b><span
@@ -554,7 +554,7 @@ lang=ZH-CN style='line-height:120%;font-family:SimSun'>融入特征学习，使�
 
 <p class=MsoNormal align=left style='text-align:left;line-height:120%'><span
 lang=EN-US style='line-height:120%;font-family:SimSun'><img width=415
-height=227 src="VLA+Final%20filtered.fld/image002.png"></span></p>
+height=227 src="./images/image002.png"></span></p>
 
 
 <p class=MsoNormal align=left style='text-align:left;text-indent:21.1pt;
@@ -637,7 +637,7 @@ lang=EN-US style='line-height:120%;font-family:SimSun'><br>
 
 <p class=MsoNormal align=left style='text-align:left;line-height:120%'><span
 lang=EN-US style='line-height:120%;font-family:SimSun'><img width=415
-height=227 id="图片 2" src="VLA+Final%20filtered.fld/image003.png"></span></p>
+height=227 id="图片 2" src="./images/image003.png"></span></p>
 
 
 <p class=MsoNormal align=left style='text-align:left;text-indent:21.1pt;
@@ -679,7 +679,7 @@ lang=EN-US style='line-height:120%;font-family:SimSun'>“</span><span
 lang=ZH-CN style='line-height:120%;font-family:SimSun'>一次预测未来 </span><span
 lang=EN-US style='font-size:10.5pt;font-family:"Calibri",sans-serif;position:
 relative;top:4.0pt'><img width=10 height=16
-src="VLA+Final%20filtered.fld/image004.png"></span><span lang=ZH-CN
+src="./images/image004.png"></span><span lang=ZH-CN
 style='line-height:120%;font-family:SimSun'>步</span><span lang=EN-US
 style='line-height:120%;font-family:SimSun'>”</span><span lang=ZH-CN
 style='line-height:120%;font-family:SimSun'>的块状输出，使得轨迹在时间上更一致、动作更平滑，也更容易与后续的分层控制框架衔接。</span></p>
@@ -759,7 +759,7 @@ lang=ZH-CN style='line-height:120%;font-family:SimSun'>递推式重规划），�
 
 <p class=MsoNormal align=left style='text-align:left;line-height:120%'><span
 lang=EN-US style='line-height:120%;font-family:SimSun'><img width=415
-height=227 id="图片 3" src="VLA+Final%20filtered.fld/image005.png"></span></p>
+height=227 id="图片 3" src="./images/image005.png"></span></p>
 
 
 <p class=MsoNormal align=left style='text-align:left;text-indent:21.1pt;
@@ -939,7 +939,7 @@ style='font-family:SimSun'>向可扩展具身智能体发展的关键路径。</
 
 <p class=MsoNormal align=center style='text-align:center;line-height:120%'><span
 lang=EN-US style='font-family:SimSun'><img width=360 height=200 id="图片 1"
-src="VLA+Final%20filtered.fld/image006.png"></span></p>
+src="./images/image006.png"></span></p>
 
 
 <p class=MsoNormal align=center style='text-align:center;line-height:120%'><b><span
