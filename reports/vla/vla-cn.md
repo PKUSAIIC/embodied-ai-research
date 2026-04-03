@@ -1,3 +1,4 @@
+# PKU SAIIC 具身研报01｜2026年具身智能要看什么？先搞懂VLA模型
 # VLA（视觉-语言-动作）研究综述（2026）
 
 **Organization:** PKUSAIIC  
