@@ -21,11 +21,9 @@
 
 ---
 
-<p class=MsoNormal style='margin-top:8.0pt;margin-right:0cm;margin-bottom:4.0pt;
-margin-left:0cm;line-height:120%;page-break-after:avoid'><b><span lang=ZH-CN
-style='font-size:14.0pt;line-height:120%;font-family:SimSun'>一、 </span></b><b><span
-lang=EN-US style='font-size:14.0pt;line-height:120%;font-family:SimSun'>VLA</span></b><b><span
-lang=ZH-CN style='font-size:14.0pt;line-height:120%;font-family:SimSun'>的定义框架、能力层级与现状评估</span></b></p>
+<p style="text-align:center; margin-top:8pt; margin-bottom:4pt; line-height:120%;">
+<b><span style='font-size:14pt; font-family:SimSun;'>一、 VLA的定义框架、能力层级与现状评估</span></b>
+</p>
 
 
 <p class=MsoNormal style='margin-top:7.8pt;margin-right:0cm;margin-bottom:7.8pt;
