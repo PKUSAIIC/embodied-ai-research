@@ -549,10 +549,9 @@ lang=ZH-CN style='line-height:120%;font-family:SimSun'>几何先验</span><span
 lang=EN-US style='line-height:120%;font-family:SimSun'>”</span><span
 lang=ZH-CN style='line-height:120%;font-family:SimSun'>融入特征学习，使视觉特征更接近真实空间结构而非单视角纹理。</span></p>
 
-
-<p class=MsoNormal align=left style='text-align:left;line-height:120%'><span
-lang=EN-US style='line-height:120%;font-family:SimSun'><img width=415
-height=227 src="./images/image002.png"></span></p>
+<p align="center">
+  <img src="./images/image002.png" width="415">
+</p>
 
 
 <p class=MsoNormal align=left style='text-align:left;text-indent:21.1pt;
@@ -633,9 +632,9 @@ lang=EN-US style='line-height:120%;font-family:SimSun'><br>
 </span><span lang=ZH-CN style='line-height:120%;font-family:SimSun'>机器人操作并非总是单一最优解：绕障可以左绕或右绕，抓取点可能有多个可行位置，放置也可能存在多种稳定姿态。决策模型一方面要具备足够表达能力以覆盖这些多峰解，另一方面还要输出可执行、平滑、与控制约束兼容的动作序列。当前主流路线大体分为两类：把动作离散化后做自回归序列建模，或直接在连续空间中学习动作分布并生成轨迹（扩散策略等）。</span></p>
 
 
-<p class=MsoNormal align=left style='text-align:left;line-height:120%'><span
-lang=EN-US style='line-height:120%;font-family:SimSun'><img width=415
-height=227 id="图片 2" src="./images/image003.png"></span></p>
+<p align="center">
+  <img src="./images/image003.png" width="415">
+</p>
 
 
 <p class=MsoNormal align=left style='text-align:left;text-indent:21.1pt;
@@ -755,9 +754,9 @@ lang=EN-US style='line-height:120%;font-family:SimSun'>/</span><span
 lang=ZH-CN style='line-height:120%;font-family:SimSun'>递推式重规划），执行一小段后基于新观测重新规划，形成闭环纠偏。这种设计把端到端模型纳入闭环：一方面缓解模型推理慢的问题，另一方面降低对单次预测正确性的依赖，使系统能够在环境变化、目标移动或执行误差出现时及时修正。</span></p>
 
 
-<p class=MsoNormal align=left style='text-align:left;line-height:120%'><span
-lang=EN-US style='line-height:120%;font-family:SimSun'><img width=415
-height=227 id="图片 3" src="./images/image005.png"></span></p>
+<p align="center">
+  <img src="./images/image005.png" width="415">
+</p>
 
 
 <p class=MsoNormal align=left style='text-align:left;text-indent:21.1pt;
@@ -1493,9 +1492,7 @@ color:black'>”</span></i><i><span lang=ZH-CN style='font-size:10.0pt;
 line-height:120%;font-family:SimSun;color:black'>。</span></i></p>
 
 
-<h2 style='line-height:120%'><b><span lang=ZH-CN style='font-size:14.0pt;
-line-height:120%;font-family:SimSun;color:windowtext'>五、 应对路径与发展趋势：迈向工业级具身智能</span></b></h2>
-
+<p align="center"><b>五、 应对路径与发展趋势：迈向工业级具身智能</b></p>
 
 <p class=MsoNormal align=left style='text-align:left;line-height:120%'><span
 lang=ZH-CN style='font-size:11.0pt;line-height:120%;font-family:SimSun;
