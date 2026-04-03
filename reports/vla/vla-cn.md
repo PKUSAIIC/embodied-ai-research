@@ -21,8 +21,8 @@
 
 ---
 
-<p style="text-align:center; margin-top:8pt; margin-bottom:4pt; line-height:120%;">
-<b><span style='font-size:14pt; font-family:SimSun;'>一、 VLA的定义框架、能力层级与现状评估</span></b>
+<p align="center">
+<b>一、 VLA的定义框架、能力层级与现状评估</b>
 </p>
 
 
